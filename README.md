@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi, I'm Keyner 👋
 
-<!--
-**keyner07/keyner07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const keyner = {
+  pronouns: "he" | "his",
+  passions: ['data-science', 'machine-learning'],
+  code: [Javascript, Typescript, HTML, CSS, Python],
+  tools: [React, Redux, Node, Styled-Components, Docker],
+  architecture: ["microservices", "design system pattern"]
+}
+```
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning about python and data structures.
+- 🤔 I’m looking for help with react, redux and machine learning.
+- 💬 Ask me about NodeJS.
+- 📫 How to reach me: skerling1907@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
