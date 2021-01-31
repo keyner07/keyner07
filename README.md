@@ -13,7 +13,7 @@ const keyner = {
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning about python and data structures.
-- 🤔 I’m looking for help with react, redux and machine learning.
+- 🤔 I’m looking for help with kubernetes, redux and machine learning.
 - 💬 Ask me about NodeJS.
 - 📫 How to reach me: skerling1907@gmail.com
 - 😄 Pronouns: ...
